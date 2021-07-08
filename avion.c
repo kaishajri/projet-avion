@@ -1121,3 +1121,7 @@ int fich_vide()
     else
         return 1;
 }
+
+
+
+/* GIt */
